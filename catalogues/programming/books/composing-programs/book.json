@@ -1,0 +1,15 @@
+{
+  "id": "composing-programs",
+  "title": "Composing Programs",
+  "author": "John DeNero",
+  "category": "Programming / Fundamentals",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "Composing Programs",
+    "url": "https://composingprograms.com/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
