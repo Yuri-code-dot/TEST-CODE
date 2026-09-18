@@ -1,0 +1,25 @@
+{
+  "id": "i-heard-a-fly-buzz",
+  "title": "I heard a Fly buzz — when I died —",
+  "author": "Emily Dickinson",
+  "year": 1896,
+  "period": "victorian",
+  "genres": [
+    "poetry"
+  ],
+  "description": "Dickinson’s death poem replaces grand spiritual revelation with the small, disruptive sound of a fly, unsettling expectations of transcendence.",
+  "themes": [
+    "Death",
+    "Perception",
+    "Faith and doubt",
+    "The ordinary"
+  ],
+  "subjects": [
+    "american-literature",
+    "womens-writing"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "emily-dickinson",
+  "readingUrl": "https://www.gutenberg.org/ebooks/12242"
+}
