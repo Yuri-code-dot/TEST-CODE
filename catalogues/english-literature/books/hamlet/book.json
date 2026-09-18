@@ -1,0 +1,23 @@
+{
+  "id": "hamlet",
+  "title": "Hamlet, Prince of Denmark",
+  "author": "William Shakespeare",
+  "year": 1603,
+  "period": "renaissance",
+  "genres": [
+    "drama"
+  ],
+  "description": "A prince, a ghost, and a court rotten with concealment. Hamlet's delay has been read as philosophy, pathology, and performance for over four centuries.",
+  "themes": [
+    "Revenge and delay",
+    "Appearance vs. reality",
+    "Mortality",
+    "Madness, real or performed"
+  ],
+  "subjects": [],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "william-shakespeare",
+  "readingUrl": "https://www.gutenberg.org/ebooks/1524",
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Shakespeare%20Chandos%20Portrait.jpg"
+}
