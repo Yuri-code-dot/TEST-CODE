@@ -1,0 +1,25 @@
+{
+  "id": "frankenstein",
+  "title": "Frankenstein; or, The Modern Prometheus",
+  "author": "Mary Shelley",
+  "year": 1818,
+  "period": "romanticism",
+  "genres": [
+    "novel"
+  ],
+  "description": "A young scientist's experiment gives rise to a creature that forces him to confront creation, responsibility, and humanity, a novel that founded modern science fiction while interrogating the limits of Romantic ambition.",
+  "themes": [
+    "Creation and responsibility",
+    "Isolation",
+    "The limits of ambition",
+    "Nature vs. artifice"
+  ],
+  "subjects": [
+    "womens-writing"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "mary-shelley",
+  "readingUrl": "https://www.gutenberg.org/ebooks/84",
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/RothwellMaryShelley.jpg"
+}
