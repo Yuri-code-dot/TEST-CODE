@@ -18,5 +18,9 @@
   "license": "Public Domain",
   "authorSlug": "charles-dickens",
   "readingUrl": "https://www.gutenberg.org/ebooks/1400",
-  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Dickens%20by%20Daniel%20Maclise.jpg"
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Dickens%20by%20Daniel%20Maclise.jpg",
+  "contentUrl": "https://cdn.jsdelivr.net/gh/Yuri-code-dot/TEST-CODE@main/catalogues/english-literature/books/great-expectations/content.txt",
+  "contentType": "text",
+  "attribution": "Great Expectations by Charles Dickens. Text sourced from Project Gutenberg eBook #1400.",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1400"
 }
