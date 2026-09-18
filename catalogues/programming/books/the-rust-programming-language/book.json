@@ -1,0 +1,15 @@
+{
+  "id": "the-rust-programming-language",
+  "title": "The Rust Programming Language",
+  "author": "Steve Klabnik and Carol Nichols",
+  "category": "Programming / Rust",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "The Rust Programming Language",
+    "url": "https://doc.rust-lang.org/book/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
