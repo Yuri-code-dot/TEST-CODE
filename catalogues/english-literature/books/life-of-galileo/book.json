@@ -1,0 +1,23 @@
+{
+  "id": "life-of-galileo",
+  "title": "Life of Galileo",
+  "author": "Bertolt Brecht",
+  "year": 1943,
+  "period": "modernism",
+  "genres": [
+    "drama"
+  ],
+  "description": "Brecht’s episodic play stages Galileo’s conflict with authority and asks what responsibilities scientific knowledge carries in a political world.",
+  "themes": [
+    "Science and power",
+    "Truth and authority",
+    "Alienation",
+    "Moral responsibility"
+  ],
+  "subjects": [
+    "modern-european-drama"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "bertolt-brecht"
+}
