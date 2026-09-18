@@ -1,0 +1,23 @@
+{
+  "id": "all-my-sons",
+  "title": "All My Sons",
+  "author": "Arthur Miller",
+  "year": 1947,
+  "period": "modernism",
+  "genres": [
+    "drama"
+  ],
+  "description": "A prosperous family’s wartime business secret exposes the costs of profit, denial, responsibility, and inherited guilt.",
+  "themes": [
+    "Business and ethics",
+    "Family responsibility",
+    "War",
+    "Guilt"
+  ],
+  "subjects": [
+    "american-literature"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "arthur-miller"
+}
