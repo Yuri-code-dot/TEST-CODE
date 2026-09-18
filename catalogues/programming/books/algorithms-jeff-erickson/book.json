@@ -1,0 +1,15 @@
+{
+  "id": "algorithms-jeff-erickson",
+  "title": "Algorithms",
+  "author": "Jeff Erickson",
+  "category": "Algorithms",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "Jeff Erickson / University of Illinois",
+    "url": "https://jeffe.cs.illinois.edu/teaching/algorithms/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
