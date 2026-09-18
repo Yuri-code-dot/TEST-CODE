@@ -1,0 +1,23 @@
+{
+  "id": "the-old-man-and-the-sea",
+  "title": "The Old Man and the Sea",
+  "author": "Ernest Hemingway",
+  "year": 1952,
+  "period": "modernism",
+  "genres": [
+    "novel"
+  ],
+  "description": "An aging Cuban fisherman’s struggle with a giant marlin becomes a concentrated meditation on endurance, dignity, labour, and defeat.",
+  "themes": [
+    "Endurance",
+    "Dignity",
+    "Human and natural worlds",
+    "Defeat and meaning"
+  ],
+  "subjects": [
+    "american-literature"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "ernest-hemingway"
+}
