@@ -1,0 +1,15 @@
+{
+  "id": "eloquent-javascript",
+  "title": "Eloquent JavaScript",
+  "author": "Marijn Haverbeke",
+  "category": "Programming / JavaScript",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "Eloquent JavaScript",
+    "url": "https://eloquentjavascript.net/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
