@@ -1,0 +1,15 @@
+{
+  "id": "the-linux-command-line",
+  "title": "The Linux Command Line",
+  "author": "William E. Shotts, Jr.",
+  "category": "Programming / Linux",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "The Linux Command Line",
+    "url": "https://linuxcommand.org/tlcl.php"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
