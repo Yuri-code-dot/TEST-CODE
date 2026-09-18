@@ -1,0 +1,23 @@
+{
+  "id": "the-birthday-party",
+  "title": "The Birthday Party",
+  "author": "Harold Pinter",
+  "year": 1958,
+  "period": "postmodernism",
+  "genres": [
+    "drama"
+  ],
+  "description": "A seemingly ordinary boarding-house birthday becomes an unsettling ritual of interrogation, identity loss, and coercive power.",
+  "themes": [
+    "Menace",
+    "Power and language",
+    "Identity",
+    "Social conformity"
+  ],
+  "subjects": [
+    "modern-european-drama"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "harold-pinter"
+}
