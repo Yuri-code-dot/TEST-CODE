@@ -21,5 +21,9 @@
   "license": "Public Domain",
   "authorSlug": "mary-shelley",
   "readingUrl": "https://www.gutenberg.org/ebooks/84",
-  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/RothwellMaryShelley.jpg"
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/RothwellMaryShelley.jpg",
+  "contentUrl": "https://raw.githubusercontent.com/Yuri-code-dot/TEST-CODE/main/catalogues/english-literature/books/frankenstein/content.txt",
+  "contentType": "text",
+  "attribution": "Frankenstein; or, The Modern Prometheus by Mary Shelley. Text sourced from Project Gutenberg eBook #84. Project Gutenberg notes that the eBook is public domain in the USA and asks users outside the USA to check local law.",
+  "sourceUrl": "https://www.gutenberg.org/ebooks/84"
 }
