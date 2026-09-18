@@ -1,0 +1,26 @@
+{
+  "id": "dickinson-poems",
+  "title": "Poems",
+  "author": "Emily Dickinson",
+  "year": 1890,
+  "period": "victorian",
+  "genres": [
+    "poetry"
+  ],
+  "description": "Published posthumously, Dickinson's poems compress mortality, faith, and perception into short, unresolved lines that broke from the metrical conventions of her time.",
+  "themes": [
+    "Mortality",
+    "Faith and doubt",
+    "Solitude",
+    "Perception"
+  ],
+  "subjects": [
+    "american-literature",
+    "womens-writing"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "emily-dickinson",
+  "readingUrl": "https://www.gutenberg.org/ebooks/12242",
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Emily%20Dickinson%20daguerreotype%20%28Restored%20and%20cropped%29.jpg"
+}
