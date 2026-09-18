@@ -1,0 +1,15 @@
+{
+  "id": "programming-languages-application-and-interpretation",
+  "title": "Programming Languages: Application and Interpretation",
+  "author": "Shriram Krishnamurthi",
+  "category": "Programming Languages",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "PLAI",
+    "url": "https://cs.brown.edu/~sk/Publications/Books/ProgLangs/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
