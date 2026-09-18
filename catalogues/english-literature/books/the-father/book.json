@@ -1,0 +1,24 @@
+{
+  "id": "the-father",
+  "title": "The Father",
+  "author": "August Strindberg",
+  "year": 1887,
+  "period": "modernism",
+  "genres": [
+    "drama"
+  ],
+  "description": "A naturalistic family drama in which a struggle over a child becomes a wider conflict about authority, gender, knowledge, and psychological control.",
+  "themes": [
+    "Gender and authority",
+    "Family conflict",
+    "Naturalism",
+    "Power and identity"
+  ],
+  "subjects": [
+    "modern-european-drama"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain translation available through Project Gutenberg",
+  "authorSlug": "august-strindberg",
+  "readingUrl": "https://www.gutenberg.org/ebooks/8499"
+}
