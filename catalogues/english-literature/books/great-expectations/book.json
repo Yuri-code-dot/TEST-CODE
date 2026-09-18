@@ -1,0 +1,22 @@
+{
+  "id": "great-expectations",
+  "title": "Great Expectations",
+  "author": "Charles Dickens",
+  "year": 1861,
+  "period": "victorian",
+  "genres": [
+    "novel"
+  ],
+  "description": "Pip's rise from a blacksmith's forge into unexplained wealth becomes Dickens's meditation on class, guilt, and the false promises of gentility in Victorian England.",
+  "themes": [
+    "Class mobility",
+    "Guilt and redemption",
+    "Appearance vs. reality"
+  ],
+  "subjects": [],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "charles-dickens",
+  "readingUrl": "https://www.gutenberg.org/ebooks/1400",
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Dickens%20by%20Daniel%20Maclise.jpg"
+}
