@@ -1,0 +1,15 @@
+{
+  "id": "think-python",
+  "title": "Think Python",
+  "author": "Allen B. Downey",
+  "category": "Programming / Python",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "Green Tea Press",
+    "url": "https://greenteapress.com/wp/think-python-2e/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
