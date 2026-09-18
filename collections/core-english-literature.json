@@ -1,0 +1,6 @@
+{
+  "id": "core-english-literature",
+  "name": "Core English Literature",
+  "description": "Initial collection for works useful to the English Literature Library and its experimental version.",
+  "books": ["hamlet"]
+}
