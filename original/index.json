@@ -1,0 +1,24 @@
+{
+  "type": "original-writing-index",
+  "description": "Index of original educational writing created for the English Literature Library.",
+  "entries": [
+    {
+      "id": "hamlet-overview",
+      "work_id": "hamlet",
+      "path": "original/hamlet/overview.md",
+      "type": "overview"
+    },
+    {
+      "id": "hamlet-themes",
+      "work_id": "hamlet",
+      "path": "original/hamlet/themes.md",
+      "type": "analysis"
+    },
+    {
+      "id": "hamlet-study-guide",
+      "work_id": "hamlet",
+      "path": "original/hamlet/study-guide.md",
+      "type": "study-guide"
+    }
+  ]
+}
