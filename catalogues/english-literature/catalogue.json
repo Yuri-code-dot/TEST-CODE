@@ -1,0 +1,306 @@
+{
+  "id": "english-literature",
+  "name": "English Literature",
+  "description": "Catalogue records for literary works, criticism, poetry and drama used by the English Literature Library.",
+  "count": 33,
+  "source": "English Literature Library / Experimental Edition",
+  "records": [
+    {
+      "id": "frankenstein",
+      "title": "Frankenstein; or, The Modern Prometheus",
+      "author": "Mary Shelley",
+      "year": 1818,
+      "period": "romanticism",
+      "genre": "novel",
+      "license": "Public Domain"
+    },
+    {
+      "id": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "period": "romanticism",
+      "genre": "novel",
+      "license": "Public Domain"
+    },
+    {
+      "id": "great-expectations",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "year": 1861,
+      "period": "victorian",
+      "genre": "novel",
+      "license": "Public Domain"
+    },
+    {
+      "id": "mrs-dalloway",
+      "title": "Mrs Dalloway",
+      "author": "Virginia Woolf",
+      "year": 1925,
+      "period": "modernism",
+      "genre": "novel",
+      "license": "Public Domain"
+    },
+    {
+      "id": "hamlet",
+      "title": "Hamlet, Prince of Denmark",
+      "author": "William Shakespeare",
+      "year": 1603,
+      "period": "renaissance",
+      "genre": "drama",
+      "license": "Public Domain"
+    },
+    {
+      "id": "dickinson-poems",
+      "title": "Poems",
+      "author": "Emily Dickinson",
+      "year": 1890,
+      "period": "victorian",
+      "genre": "poetry",
+      "license": "Public Domain"
+    },
+    {
+      "id": "the-father",
+      "title": "The Father",
+      "author": "August Strindberg",
+      "year": 1887,
+      "period": "modernism",
+      "genre": "drama",
+      "license": "Public Domain translation available through Project Gutenberg"
+    },
+    {
+      "id": "life-of-galileo",
+      "title": "Life of Galileo",
+      "author": "Bertolt Brecht",
+      "year": 1943,
+      "period": "modernism",
+      "genre": "drama",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "waiting-for-godot",
+      "title": "Waiting for Godot",
+      "author": "Samuel Beckett",
+      "year": 1953,
+      "period": "postmodernism",
+      "genre": "drama",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-birthday-party",
+      "title": "The Birthday Party",
+      "author": "Harold Pinter",
+      "year": 1958,
+      "period": "postmodernism",
+      "genre": "drama",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-old-man-and-the-sea",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "year": 1952,
+      "period": "modernism",
+      "genre": "novel",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "all-my-sons",
+      "title": "All My Sons",
+      "author": "Arthur Miller",
+      "year": 1947,
+      "period": "modernism",
+      "genre": "drama",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-purloined-letter",
+      "title": "The Purloined Letter",
+      "author": "Edgar Allan Poe",
+      "year": 1844,
+      "period": "romanticism",
+      "genre": "short-story",
+      "license": "Public Domain"
+    },
+    {
+      "id": "up-from-slavery-chapter-one",
+      "title": "Up from Slavery, Chapter 1",
+      "author": "Booker T. Washington",
+      "year": 1901,
+      "period": "modernism",
+      "genre": "autobiography",
+      "license": "Public Domain"
+    },
+    {
+      "id": "i-know-why-the-caged-bird-sings-chapter-fifteen",
+      "title": "I Know Why the Caged Bird Sings, Chapter 15",
+      "author": "Maya Angelou",
+      "year": 1969,
+      "period": "contemporary",
+      "genre": "autobiography",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "dry-september",
+      "title": "Dry September",
+      "author": "William Faulkner",
+      "year": 1931,
+      "period": "modernism",
+      "genre": "short-story",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "o-captain-my-captain",
+      "title": "O Captain! My Captain!",
+      "author": "Walt Whitman",
+      "year": 1865,
+      "period": "romanticism",
+      "genre": "poetry",
+      "license": "Public Domain"
+    },
+    {
+      "id": "this-was-a-poet",
+      "title": "This was a Poet",
+      "author": "Emily Dickinson",
+      "year": 1890,
+      "period": "victorian",
+      "genre": "poetry",
+      "license": "Public Domain"
+    },
+    {
+      "id": "i-heard-a-fly-buzz",
+      "title": "I heard a Fly buzz — when I died —",
+      "author": "Emily Dickinson",
+      "year": 1896,
+      "period": "victorian",
+      "genre": "poetry",
+      "license": "Public Domain"
+    },
+    {
+      "id": "mending-wall",
+      "title": "Mending Wall",
+      "author": "Robert Frost",
+      "year": 1914,
+      "period": "modernism",
+      "genre": "poetry",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-negro-speaks-of-rivers",
+      "title": "The Negro Speaks of Rivers",
+      "author": "Langston Hughes",
+      "year": 1921,
+      "period": "modernism",
+      "genre": "poetry",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-language-of-african-literature",
+      "title": "The Language of African Literature",
+      "author": "Ngũgĩ wa Thiong'o",
+      "year": 1986,
+      "period": "postcolonial",
+      "genre": "theory",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "a-far-cry-from-africa",
+      "title": "A Far Cry from Africa",
+      "author": "Derek Walcott",
+      "year": 1962,
+      "period": "postcolonial",
+      "genre": "poetry",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-white-fiends",
+      "title": "The White Fiends",
+      "author": "Langston Hughes",
+      "year": 1924,
+      "period": "modernism",
+      "genre": "poetry",
+      "license": "Copyright status varies by jurisdiction, catalogue metadata only"
+    },
+    {
+      "id": "small-towns-and-the-river",
+      "title": "Small Towns and the River",
+      "author": "Mamang Dai",
+      "year": 2006,
+      "period": "postcolonial",
+      "genre": "poetry",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-second-sex-introduction",
+      "title": "The Second Sex, Introduction",
+      "author": "Simone de Beauvoir",
+      "year": 1949,
+      "period": "modernism",
+      "genre": "theory",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "a-room-of-ones-own",
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "year": 1929,
+      "period": "modernism",
+      "genre": "essay",
+      "license": "Copyright status varies by jurisdiction, catalogue metadata only"
+    },
+    {
+      "id": "a-literature-of-their-own",
+      "title": "A Literature of Their Own",
+      "author": "Elaine Showalter",
+      "year": 1977,
+      "period": "postmodernism",
+      "genre": "criticism",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "in-other-worlds",
+      "title": "In Other Worlds",
+      "author": "Gayatri Chakravorty Spivak",
+      "year": 1987,
+      "period": "postcolonial",
+      "genre": "criticism",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "under-western-eyes",
+      "title": "Under Western Eyes",
+      "author": "Chandra Talpade Mohanty",
+      "year": 1984,
+      "period": "postcolonial",
+      "genre": "criticism",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "the-madwoman-in-the-attic",
+      "title": "The Madwoman in the Attic",
+      "author": "Sandra Gilbert & Susan Gubar",
+      "year": 1979,
+      "period": "postmodernism",
+      "genre": "criticism",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "sexual-textual-politics",
+      "title": "Sexual/Textual Politics",
+      "author": "Toril Moi",
+      "year": 1985,
+      "period": "postmodernism",
+      "genre": "criticism",
+      "license": "Copyrighted work, catalogue metadata only"
+    },
+    {
+      "id": "recasting-women",
+      "title": "Recasting Women",
+      "author": "Kumkum Sangari & Sudesh Vaid",
+      "year": 1989,
+      "period": "postcolonial",
+      "genre": "criticism",
+      "license": "Copyrighted work, catalogue metadata only"
+    }
+  ]
+}
