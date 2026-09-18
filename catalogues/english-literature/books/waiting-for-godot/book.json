@@ -1,0 +1,23 @@
+{
+  "id": "waiting-for-godot",
+  "title": "Waiting for Godot",
+  "author": "Samuel Beckett",
+  "year": 1953,
+  "period": "postmodernism",
+  "genres": [
+    "drama"
+  ],
+  "description": "Two figures wait beside a country road for an absent arrival in Beckett’s spare, repetitive drama of uncertainty, dependence, and time.",
+  "themes": [
+    "The absurd",
+    "Waiting and time",
+    "Language and silence",
+    "Human dependence"
+  ],
+  "subjects": [
+    "modern-european-drama"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "samuel-beckett"
+}
