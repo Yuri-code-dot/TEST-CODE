@@ -1,0 +1,23 @@
+{
+  "id": "mending-wall",
+  "title": "Mending Wall",
+  "author": "Robert Frost",
+  "year": 1914,
+  "period": "modernism",
+  "genres": [
+    "poetry"
+  ],
+  "description": "Two neighbours repair a boundary while disagreeing about whether walls preserve community or prevent it.",
+  "themes": [
+    "Boundaries",
+    "Community",
+    "Tradition",
+    "Ambiguity"
+  ],
+  "subjects": [
+    "american-literature"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "robert-frost"
+}
