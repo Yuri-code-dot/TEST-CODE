@@ -1,0 +1,25 @@
+{
+  "id": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "year": 1813,
+  "period": "romanticism",
+  "genres": [
+    "novel"
+  ],
+  "description": "Elizabeth Bennet's sharp wit and Mr. Darcy's wounded pride collide across a novel that turns the marriage plot into a study of self-knowledge, class, and first impressions.",
+  "themes": [
+    "Marriage and economics",
+    "Pride and self-perception",
+    "Social class",
+    "Irony as judgment"
+  ],
+  "subjects": [
+    "womens-writing"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "jane-austen",
+  "readingUrl": "https://www.gutenberg.org/ebooks/1342",
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/PrideAndPrejudiceTitlePage.jpg"
+}
