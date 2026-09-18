@@ -1,0 +1,23 @@
+{
+  "id": "a-room-of-ones-own",
+  "title": "A Room of One’s Own",
+  "author": "Virginia Woolf",
+  "year": 1929,
+  "period": "modernism",
+  "genres": [
+    "essay"
+  ],
+  "description": "Woolf’s extended essay links women’s literary production to material independence, education, space, and the freedom to think.",
+  "themes": [
+    "Authorship",
+    "Material conditions",
+    "Gender",
+    "Education"
+  ],
+  "subjects": [
+    "womens-writing"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyright status varies by jurisdiction, catalogue metadata only",
+  "authorSlug": "virginia-woolf"
+}
