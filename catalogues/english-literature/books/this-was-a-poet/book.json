@@ -1,0 +1,25 @@
+{
+  "id": "this-was-a-poet",
+  "title": "This was a Poet",
+  "author": "Emily Dickinson",
+  "year": 1890,
+  "period": "victorian",
+  "genres": [
+    "poetry"
+  ],
+  "description": "A compact Dickinson poem that reflects on poetic vocation, recognition, and the difficulty of measuring imaginative work.",
+  "themes": [
+    "Poetic vocation",
+    "Recognition",
+    "Language",
+    "Mortality"
+  ],
+  "subjects": [
+    "american-literature",
+    "womens-writing"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "emily-dickinson",
+  "readingUrl": "https://www.gutenberg.org/ebooks/12242"
+}
