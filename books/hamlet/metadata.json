@@ -1,0 +1,11 @@
+{
+  "id": "hamlet",
+  "title": "Hamlet",
+  "author_id": "william-shakespeare",
+  "type": "play",
+  "language": "English",
+  "period_id": "english-renaissance",
+  "collection": "core-english-literature",
+  "status": "metadata-seeded",
+  "content_note": "Full text should be added only from a public-domain or appropriately licensed source."
+}
