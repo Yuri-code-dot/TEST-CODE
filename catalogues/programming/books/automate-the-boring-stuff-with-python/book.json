@@ -1,0 +1,15 @@
+{
+  "id": "automate-the-boring-stuff-with-python",
+  "title": "Automate the Boring Stuff with Python",
+  "author": "Al Sweigart",
+  "category": "Programming / Python / Automation",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "Automate the Boring Stuff with Python",
+    "url": "https://automatetheboringstuff.com/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
