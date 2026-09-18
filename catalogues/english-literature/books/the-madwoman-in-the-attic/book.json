@@ -1,0 +1,23 @@
+{
+  "id": "the-madwoman-in-the-attic",
+  "title": "The Madwoman in the Attic",
+  "author": "Sandra Gilbert & Susan Gubar",
+  "year": 1979,
+  "period": "postmodernism",
+  "genres": [
+    "criticism"
+  ],
+  "description": "Gilbert and Gubar’s influential study reads nineteenth-century women’s writing through figures of authorship, confinement, anger, and revisionary imagination.",
+  "themes": [
+    "Female authorship",
+    "Confinement",
+    "Anger",
+    "Revision"
+  ],
+  "subjects": [
+    "womens-writing"
+  ],
+  "source": "External rights-holder",
+  "license": "Copyrighted work, catalogue metadata only",
+  "authorSlug": "sandra-gilbert-susan-gubar"
+}
