@@ -1,0 +1,12 @@
+{
+  "id": "hamlet",
+  "title": "Hamlet",
+  "author": "William Shakespeare",
+  "year": 1609,
+  "period": "English Renaissance",
+  "genres": ["Tragedy", "Drama"],
+  "description": "A Shakespearean tragedy centered on Prince Hamlet of Denmark and his response to the death of his father.",
+  "themes": ["Revenge", "Death", "Madness", "Appearance and Reality", "Corruption", "Indecision"],
+  "characters": ["Hamlet", "Claudius", "Gertrude", "Ophelia", "Polonius", "Horatio", "Laertes", "Fortinbras"],
+  "chapters": ["act-1", "act-2", "act-3", "act-4", "act-5"]
+}
