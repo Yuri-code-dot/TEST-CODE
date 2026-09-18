@@ -1,0 +1,24 @@
+{
+  "id": "the-purloined-letter",
+  "title": "The Purloined Letter",
+  "author": "Edgar Allan Poe",
+  "year": 1844,
+  "period": "romanticism",
+  "genres": [
+    "short-story"
+  ],
+  "description": "C. Auguste Dupin solves a political theft not by searching harder but by understanding how concealment can operate in plain sight.",
+  "themes": [
+    "Detection",
+    "Reason and imagination",
+    "Visibility",
+    "Power and information"
+  ],
+  "subjects": [
+    "american-literature"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "edgar-allan-poe",
+  "readingUrl": "https://www.gutenberg.org/ebooks/2148"
+}
