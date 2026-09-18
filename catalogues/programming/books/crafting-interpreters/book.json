@@ -1,0 +1,15 @@
+{
+  "id": "crafting-interpreters",
+  "title": "Crafting Interpreters",
+  "author": "Robert Nystrom",
+  "category": "Programming / Compilers",
+  "contentStatus": "external-source",
+  "source": {
+    "provider": "Crafting Interpreters",
+    "url": "https://craftinginterpreters.com/"
+  },
+  "rights": {
+    "status": "verify-before-redistribution",
+    "redistribution": false
+  }
+}
