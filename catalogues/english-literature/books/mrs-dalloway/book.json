@@ -1,0 +1,25 @@
+{
+  "id": "mrs-dalloway",
+  "title": "Mrs Dalloway",
+  "author": "Virginia Woolf",
+  "year": 1925,
+  "period": "modernism",
+  "genres": [
+    "novel"
+  ],
+  "description": "A single June day in London, following Clarissa Dalloway's preparations for a party and Septimus Warren Smith's unraveling, told through a stream of consciousness that moves freely between minds and moments.",
+  "themes": [
+    "Time and memory",
+    "War trauma",
+    "The interior life",
+    "The texture of a single day"
+  ],
+  "subjects": [
+    "womens-writing"
+  ],
+  "source": "Wikisource",
+  "license": "Public Domain",
+  "authorSlug": "virginia-woolf",
+  "readingUrl": "https://en.wikisource.org",
+  "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/George%20Charles%20Beresford%20-%20Virginia%20Woolf%20in%201902.jpg"
+}
