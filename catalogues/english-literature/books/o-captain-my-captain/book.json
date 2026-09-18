@@ -1,0 +1,24 @@
+{
+  "id": "o-captain-my-captain",
+  "title": "O Captain! My Captain!",
+  "author": "Walt Whitman",
+  "year": 1865,
+  "period": "romanticism",
+  "genres": [
+    "poetry"
+  ],
+  "description": "Whitman’s elegy for Abraham Lincoln turns a national victory into a paradoxical scene of public celebration and private grief.",
+  "themes": [
+    "Mourning",
+    "Nation",
+    "Leadership",
+    "Public memory"
+  ],
+  "subjects": [
+    "american-literature"
+  ],
+  "source": "Project Gutenberg",
+  "license": "Public Domain",
+  "authorSlug": "walt-whitman",
+  "readingUrl": "https://www.gutenberg.org/ebooks/1322"
+}
