@@ -1,0 +1,9 @@
+{
+  "id": "william-shakespeare",
+  "name": "William Shakespeare",
+  "born": 1564,
+  "died": 1616,
+  "period": "English Renaissance",
+  "works": ["hamlet"],
+  "description": "English playwright, poet, and actor whose works form a major part of English literary studies."
+}
